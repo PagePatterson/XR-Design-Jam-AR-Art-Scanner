@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5c81419aeca1fe449346a280bb1828c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _contentTransform: {instanceID: 0}
+  - _furnitureUIPrefab: {instanceID: 0}
+  - _placementInteractable: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
